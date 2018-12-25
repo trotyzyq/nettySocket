@@ -3,7 +3,7 @@
 [下载链接](http://www.insistself.cn:9002/oss/downloadFile?path=/ossFile/dc5c5580-9566-4bc7-9d9b-fb1426fccffc-2018-12-25%2009:42:23.jar)
 
 
-### 第二步: 配置文件(命名为netty.properties)
+### 第二步: 根目录配置文件(命名为netty.properties)
 ```
 nettyWebsocket.port=6789
 ```
